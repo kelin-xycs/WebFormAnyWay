@@ -1,0 +1,6 @@
+D:\老郭\一些研究\WebFormAnyWay\WebFormAnyWay\bin\WebFormAnyWay.dll.config
+D:\老郭\一些研究\WebFormAnyWay\WebFormAnyWay\bin\WebFormAnyWay.dll
+D:\老郭\一些研究\WebFormAnyWay\WebFormAnyWay\bin\WebFormAnyWay.pdb
+D:\老郭\一些研究\WebFormAnyWay\WebFormAnyWay\obj\Debug\WebFormAnyWay.csprojResolveAssemblyReference.cache
+D:\老郭\一些研究\WebFormAnyWay\WebFormAnyWay\obj\Debug\WebFormAnyWay.dll
+D:\老郭\一些研究\WebFormAnyWay\WebFormAnyWay\obj\Debug\WebFormAnyWay.pdb
